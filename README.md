@@ -4,7 +4,7 @@
 
 ###  Control Flow Graph
 
-![CFG drawio (1)](https://github.com/user-attachments/assets/478fd94b-a905-4e6a-a13c-c38098536009)
+![CFG drawio (1)](https://github.com/user-attachments/assets/1d05adb2-de1e-43d0-9fec-e171d05c851e)
 
 ### Цикломатска комплексност
 
@@ -12,7 +12,7 @@
 
 ### Тест случаи според критериумот  Every statement 
 
-![Screenshot_1](https://github.com/user-attachments/assets/9f4f71b7-a8af-4adb-9fc4-8639742be690)
+![Screenshot_1](https://github.com/user-attachments/assets/9df28691-d831-45a9-a34b-493c70dcf271)
 
 За да се постигне овој критериум минимално мора да има 5 тест случаи
 
